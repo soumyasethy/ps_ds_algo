@@ -1,0 +1,12 @@
+{
+  "name": "hello_world_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "runTestCase": "node Test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
